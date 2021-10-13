@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 theme: jekyll-theme-cayman
-=======
 # Site settings
 title: Miro Blog
 SEOTitle: 你的博客 | Your Blog
@@ -101,4 +99,3 @@ friends: [
         href: "#"
     }
 ]
->>>>>>> master
