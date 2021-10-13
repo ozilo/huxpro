@@ -24,5 +24,5 @@ Syntax highlighted code block
 ```
 ### 目录
 #### 学习
-##### [vim](vim骚操作/vim_index.md)
+##### [vim](vim骚操作/index.md)
 #### 随想
