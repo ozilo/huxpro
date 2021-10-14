@@ -7,7 +7,7 @@ email: ozilooooo@gmail.com
 description: ""
 keyword: ""
 url: "https://ozilo.Github.io"
-baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
+# baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
